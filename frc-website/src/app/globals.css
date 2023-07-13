@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-about-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(210 212 200 / var(--tw-bg-opacity));
+}
+
+.bg-mv-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(184 189 181 / var(--tw-bg-opacity));
+}
+
+.bg-team-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(136 150 150 / var(--tw-bg-opacity));
+}
+
+.bg-sponsor-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(95 116 112 / var(--tw-bg-opacity));
+}
+
+.bg-last-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(54 103 53 / var(--tw-bg-opacity));
+}
+
