@@ -6,7 +6,7 @@ const inter = Montserrat({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'TERAKKİ FRC TEAM',
-  description: 'Change me!',
+  description: 'Terakki Frc Team Website!',
 }
 
 export default function RootLayout({
