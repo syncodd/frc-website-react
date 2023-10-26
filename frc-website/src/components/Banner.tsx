@@ -19,7 +19,7 @@ const Banner = () => {
 
     return (
         <div className="h-full max-w-screen-2xl mx-auto text-white flex flex-col justify-center items-center">
-            <h1 className="text-4xl uppercase font-bold">Terrakİ FRC Team</h1>
+            <h1 className="text-4xl uppercase font-bold">Terrakİ Robotic Team</h1>
             {/* <p className="text-lg font-semibold mt-2 mb-8">{text}<Cursor cursorBlinking cursorStyle="|" cursorColor="#ffaa17"/></p> */}
             <ChevronDoubleDownIcon className="h-8 w-8 absolute bottom-5 animate-bounce" aria-hidden="true" />
         </div>

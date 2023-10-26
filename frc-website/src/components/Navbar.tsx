@@ -9,7 +9,7 @@ import { Fragment } from "react";
 
 export default function Navbar() {
 
-  const title = "Terraki FRC Team Logo"
+  const title = "Terraki Robotic Team Logo"
 
   const handleClick = (e:any, path:any) => {
     var access = document.getElementById(path);
